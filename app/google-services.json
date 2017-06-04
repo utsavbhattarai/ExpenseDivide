@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12163243369",
+    "firebase_url": "https://expensedivide-9d570.firebaseio.com",
+    "project_id": "expensedivide-9d570",
+    "storage_bucket": "expensedivide-9d570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12163243369:android:49aeaaec54b60569",
+        "android_client_info": {
+          "package_name": "com.example.utsav.expensedivide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12163243369-25fa1oan5p9jfbplnkbibct7k9hdcrko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf-jPrQr7BzTIniPtNTzf3gFUMRUCZSGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
